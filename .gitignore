@@ -1,3 +1,7 @@
+
+# env config for mongo
+nodemon.json
+
 # Logs
 logs
 *.log
@@ -25,9 +29,6 @@ coverage
 
 # Bower dependency directory (https://bower.io/)
 bower_components
-
-# env config for mongo
-nodemon.json
 
 # node-waf configuration
 .lock-wscript
